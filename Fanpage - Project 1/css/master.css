@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css?family=Righteous|Lato");
+
+body
+{
+  padding: 0px;
+  margin: 0px;
+  background-color: lightblue;
+}
+
+.header-text
+{
+  font-family: 'Righteous';
+  font-size: 420%;
+
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.centered-text-box
+{
+  font-family: 'Lato';
+  font-size: 150%;
+  padding = 0px;
+  border: 2px solid black;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+  background-color: darkorange;
+}
+
+.centered-leftalignedtext-box
+{
+  font-family: 'Lato';
+  font-size: 150%;
+  padding = 0px;
+  border: 2px solid black;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: left;
+  background-color: darkorange;
+}
+
+.centered-link
+{
+  font-size: 200%;
+  font-family: 'Righteous';
+
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.centered-video
+{
+  width: 500px;
+  height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
